@@ -1,0 +1,8 @@
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\obj\Debug\Kursovaya7a.csprojResolveAssemblyReference.cache
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\obj\Debug\Kursovaya7a.MainForm.resources
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\obj\Debug\Kursovaya7a.csproj.GenerateResource.Cache
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\bin\Debug\Kursovaya7a.exe.config
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\bin\Debug\Kursovaya7a.exe
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\bin\Debug\Kursovaya7a.pdb
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\obj\Debug\Kursovaya7a.exe
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\Kursovaya7a\Kursovaya7a\obj\Debug\Kursovaya7a.pdb
